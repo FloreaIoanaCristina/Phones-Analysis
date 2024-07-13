@@ -1,0 +1,36 @@
+id,manufacturer,model,form,smartphone,year,units_sold_m
+1,Samsung,E1100,Bar,No,2009,150.0
+2,Samsung,Galaxy S III and Galaxy S III Mini,Touchscreen,Yes,2012,70.0
+3,Samsung,Galaxy S4,Touchscreen,Yes,2013,70.0
+4,Samsung,Galaxy S7 and Galaxy S7 edge,Touchscreen,Yes,2016,55.0
+5,Samsung,Galaxy S6 and Galaxy S6 edge,Touchscreen,Yes,2015,45.0
+6,Samsung,Galaxy S8 and Galaxy S8+,Touchscreen,Yes,2017,41.0
+7,Samsung,Galaxy S II,Touchscreen,Yes,2011,40.0
+8,Samsung,Galaxy S10,Touchscreen,Yes,2019,37.0
+9,Samsung,Galaxy S9 and Galaxy S9+,Touchscreen,Yes,2018,35.4
+10,Samsung,Galaxy A10,Touchscreen,Yes,2019,30.3
+11,Samsung,E250,Slider,No,2006,30.0
+12,Samsung,Galaxy Note II,Touchscreen,Yes,2012,30.0
+13,Samsung,Galaxy S20,Touchscreen,Yes,2020,28.0
+14,Samsung,Galaxy S,Touchscreen,Yes,2010,25.0
+15,Samsung,Galaxy Grand Prime Plus,Touchscreen,Yes,2016,24.2
+16,Samsung,Galaxy A50,Touchscreen,Yes,2019,24.2
+17,Samsung,Galaxy A51,Touchscreen,Yes,2019,23.2
+18,Samsung,Galaxy A20,Touchscreen,Yes,2019,23.1
+19,Samsung,Galaxy A21s,Touchscreen,Yes,2020,19.4
+20,Samsung,Galaxy A01,Touchscreen,Yes,2019,16.9
+21,Samsung,Galaxy A11,Touchscreen,Yes,2020,15.3
+22,Samsung,Galaxy J2 Core,Touchscreen,Yes,2018,15.2
+23,Samsung,Galaxy S21,Touchscreen,Yes,2021,13.5
+24,Samsung,SGH-E700,Flip phone,No,2003,10.0
+25,Samsung,Star/Tocco Lite (S5230),Touchscreen,No,2009,10.0
+26,Samsung,Galaxy Note,Touchscreen,Yes,2011,10.0
+27,Samsung,Galaxy Note 3,Touchscreen,Yes,2013,10.0
+28,Samsung,Galaxy Note 8,Touchscreen,Yes,2017,10.0
+29,Samsung,Galaxy Note 9,Touchscreen,Yes,2018,9.6
+30,Samsung,Galaxy A30,Touchscreen,Yes,2019,9.2
+31,Samsung,Galaxy J4+,Touchscreen,Yes,2018,6.4
+32,Samsung,Galaxy J6+,Touchscreen,Yes,2018,4.9
+33,Samsung,Galaxy Note 4,Touchscreen,Yes,2014,4.5
+34,Samsung,Galaxy A10s,Touchscreen,Yes,2019,3.9
+35,Samsung,Galaxy A30s,Touchscreen,Yes,2019,3.4
